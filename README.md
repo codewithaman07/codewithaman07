@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @codewithaman07 (Aman Singh) Pre final year B.Tech ECE from NSUT student
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Aman Singh 👋
 
-<!---
-codewithaman07/codewithaman07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a love for solving problems and building projects. I enjoy learning new technologies, contributing to open-source, and exploring the world of **competitive programming** and **AI**.
+
+## 🚀 About Me
+
+- 🔭 Currently working on **AI Companion Web App** and **Book Recommender System**.
+- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Competitive Programming**.
+- 💬 Ask me about **JavaScript**, **C++**, **React**, **Flask**, **Machine Learning**, and **AI**.
+- ⚡ Fun fact: I love **problem-solving** and always strive for better **optimization**.
+
+## 🧑‍💻 Technologies & Tools
+
+Here are the tools and technologies I work with:
+
+- **Languages**: JavaScript, Python, C++, Go, HTML/CSS
+- **Frontend**: React, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express.js, Flask
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code, Postman
+
+## 📈 GitHub Stats
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithaman07&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/amansingh/)
+- [Twitter](https://twitter.com/codewithaman07)
+- [My Portfolio](https://your-portfolio-link.com)
+
+## 🏆 Achievements
+
+- 🎉 **Won Innohacks'24 Hackathon** organized by D'Code NSUT.
+- 🏅 Over **850 problems solved** on competitive programming platforms.
+- 📚 Working on multiple projects related to **AI, Machine Learning**, and **Web Development**.
+
+Feel free to check out my repositories, contribute, or just say hi! 👋
+
+---
+
+⚡ "Learning is a journey, not a race!" - Aman Singh
