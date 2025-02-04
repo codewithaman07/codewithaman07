@@ -44,4 +44,4 @@ Feel free to check out my repositories, contribute, or just say hi! 👋
 
 ---
 
-⚡ "Learning is a journey, not a race!" - Aman Singh
+⚡ "Learning is a journey, not a race!"
