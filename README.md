@@ -4,9 +4,9 @@ I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a lo
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI Companion Web App** and **Book Recommender System**.
+- 🔭 Currently working on **AI Companion Web App**
 - 🌱 Learning **Machine Learning**, **Deep Learning**, and **Competitive Programming**.
-- 💬 Ask me about **JavaScript**, **C++**, **React**, **Flask**, **Machine Learning**, and **AI**.
+- 💬 Enthusiast **JavaScript**, **C++**, **React**, **Flask**, **Machine Learning**, and **AI**.
 - ⚡ Fun fact: I love **problem-solving** and always strive for better **optimization**.
 
 ## 🧑‍💻 Technologies & Tools
@@ -16,9 +16,14 @@ Here are the tools and technologies I work with:
 - **Languages**: JavaScript, Python, C++, Go, HTML/CSS
 - **Frontend**: React, HTML5, CSS3, Tailwind CSS
 - **Backend**: Node.js, Express.js, Flask
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Machine Learning**: Scikit-learn, TensorFlow
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VS Code, Postman
+
+## 🔗 Coding profiles
+- [Leetcode](https://leetcode.com/u/codewithaman07/)
+- [Codechef](https://www.codechef.com/users/aman_nsut)
+- [Codeforces](https://codeforces.com/profile/codewithaman)
 
 ## 📈 GitHub Stats
 
@@ -26,8 +31,7 @@ Here are the tools and technologies I work with:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/amansingh/)
-- [Twitter](https://twitter.com/codewithaman07)
+- [LinkedIn](https://www.linkedin.com/in/codewithaman07/)
 - [My Portfolio](https://your-portfolio-link.com)
 
 ## 🏆 Achievements
