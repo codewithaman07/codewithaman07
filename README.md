@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Singh 👋
 
-I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a love for solving problems and building projects. I enjoy learning new technologies, contributing to open-source, and exploring the world of **competitive programming** and **AI**.
+I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a love for solving problems and building projects. I enjoy learning new technologies and exploring the world of **competitive programming** and **AI**.
 
 ## 🚀 About Me
 
