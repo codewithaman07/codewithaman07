@@ -13,7 +13,7 @@ I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a lo
 
 Here are the tools and technologies I work with:
 
-- **Languages**: JavaScript, Python, C++, Go, HTML/CSS
+- **Languages**: JavaScript, Python, C++, Go
 - **Frontend**: React, HTML5, CSS3, Tailwind CSS
 - **Backend**: Node.js, Express.js, Flask
 - **Machine Learning**: Scikit-learn, TensorFlow
