@@ -37,7 +37,7 @@ Here are the tools and technologies I work with:
 ## 🏆 Achievements
 
 - 🎉 **Won Innohacks'24 Hackathon** organized by D'Code NSUT.
-- 🏅 Over **850 problems solved** on competitive programming platforms.
+- 🏅 Over **1200 DSA problems solved** on competitive programming platforms.
 - 📚 Working on multiple projects related to **AI, Machine Learning**, and **Web Development**.
 
 Feel free to check out my repositories, contribute, or just say hi! 👋
