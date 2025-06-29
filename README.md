@@ -32,7 +32,7 @@ Here are the tools and technologies I work with:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/codewithaman07/)
-- [My Portfolio](https://codewithaman07.github.io/Portfolio/)
+- [My Portfolio](https://codewithaman07.vercel.app/)
 
 ## 🏆 Achievements
 
