@@ -1,47 +1,97 @@
-# Hi there, I'm Aman Singh 👋
+# Hi there, I'm Aman Singh! 👋
 
-I'm a passionate **Web Developer** and **Machine Learning Enthusiast** with a love for solving problems and building projects. I enjoy learning new technologies and exploring the world of **competitive programming** and **AI**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+</div>
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI Companion Web App**
-- 🌱 Learning **Machine Learning**, **Deep Learning**, and **Competitive Programming**.
-- 💬 Enthusiast **JavaScript**, **C++**, **React**, **Flask**, **Machine Learning**, and **AI**.
-- ⚡ Fun fact: I love **problem-solving** and always strive for better **optimization**.
-
-## 🧑‍💻 Technologies & Tools
-
-Here are the tools and technologies I work with:
-
-- **Languages**: JavaScript, Python, C++, Go
-- **Frontend**: React, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express.js, Flask
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, VS Code, Postman
-
-## 🔗 Coding profiles
-- [Leetcode](https://leetcode.com/u/codewithaman07/)
-- [Codechef](https://www.codechef.com/users/aman_nsut)
-- [Codeforces](https://codeforces.com/profile/codewithaman)
-
-## 📈 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithaman07&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true)
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/codewithaman07/)
-- [My Portfolio](https://codewithaman07.vercel.app/)
-
-## 🏆 Achievements
-
-- 🎉 **Won Innohacks'24 Hackathon** organized by D'Code NSUT.
-- 🏅 Over **1200 DSA problems solved** on competitive programming platforms.
-- 📚 Working on multiple projects related to **AI, Machine Learning**, and **Web Development**.
-
-Feel free to check out my repositories, contribute, or just say hi! 👋
+🎓 **Electronics & Communication Engineering** student at **Netaji Subhas University of Technology, Delhi** (CGPA: 8.68)  
+💻 **Full Stack Developer** with expertise in **MERN Stack** and **Machine Learning**  
+🏆 **Hackathon Winner** and **Research Intern** with hands-on industry experience  
+📍 Based in **New Delhi, India**
 
 ---
 
-⚡ "Learning is a journey, not a race!"
+
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ML & Tools
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
+
+---
+
+
+
+## 🏅 Achievements & Recognition
+
+🥇 **1st Place** - Innohacks Hackathon (100+ teams)  
+🔬 **Research Intern** - IIT Bombay project on yoga's impact on logical thinking  
+🎖️ **Excellence in Education Award** - Honored by Delhi's Education Minister  
+📚 **Subject Matter Expert** - Chegg (90 CF score, 100+ problems solved)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithaman07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Aman's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithaman07&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaman07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Aman's Top Languages" width="40%">
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithaman07/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithaman07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://codolio.com/profile/codewithaman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithaman07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://codewithaman07.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithaman07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</div>
+
+<div align="center">
+  <h3>💡 "Turning ideas into code, one commit at a time!"</h3>
+</div>
