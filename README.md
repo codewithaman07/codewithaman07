@@ -1,7 +1,7 @@
 # Hi there, I'm Aman Singh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
